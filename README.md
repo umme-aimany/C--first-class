@@ -1,4 +1,5 @@
 # C++ First Class
+this is a First class of c++
 
 Welcome to your first class on C++ programming! In this class, we'll cover some fundamental concepts including variable, data types, and logical operators.
 
